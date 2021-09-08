@@ -1,0 +1,11 @@
+# ignore
+bin/
+etc/
+hello01.ipynb
+include/
+lib/
+lib64
+pyvenv.cfg
+share/
+.ipynb_checkpoints/
+mnist_dataset/
