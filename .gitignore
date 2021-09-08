@@ -10,3 +10,5 @@ share/
 .ipynb_checkpoints/
 mnist_dataset/
 my_images/
+*.ods#
+*.ods
