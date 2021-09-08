@@ -3,7 +3,7 @@
 This is a small neural network to recognize
 hand written numbers.
 
-#### Setup
+## Setup
 
 * Install [Jupyter Notebook](https://jupyter.org/)
 * Install [numpy](https://numpy.org/)

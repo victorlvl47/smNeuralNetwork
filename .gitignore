@@ -9,3 +9,4 @@ pyvenv.cfg
 share/
 .ipynb_checkpoints/
 mnist_dataset/
+my_images/
